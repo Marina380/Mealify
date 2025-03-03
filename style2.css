@@ -47,7 +47,7 @@ body {
   margin: 0;
 }
 .nav .item2 ul li a {
-  color: gray;
+  color: rgba(128, 128, 128, 0.849);
   font-size: 17px;
   font-weight: 500;
   font-family: system-ui;
